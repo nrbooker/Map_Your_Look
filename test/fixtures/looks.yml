@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  eye_id: 1
+  lip_id: 1
+  cheek_id: 1
+  category: MyString
+  event: MyText
+  notes: MyText
+  selfie: MyString
+
+two:
+  user_id: 1
+  eye_id: 1
+  lip_id: 1
+  cheek_id: 1
+  category: MyString
+  event: MyText
+  notes: MyText
+  selfie: MyString
